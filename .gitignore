@@ -24,3 +24,5 @@ yarn-error.log
 /web/sites/*/settings.local.php
 /web/sites/*/files/
 /web/sites/*/private/
+/.editorconfig
+/.gitattributes
